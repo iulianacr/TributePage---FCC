@@ -1,2 +1,2 @@
-# TributePage---FCC
+# TributePage-FCC
 Free Code Camp Project
